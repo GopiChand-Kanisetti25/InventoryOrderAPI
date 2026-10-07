@@ -1,3 +1,5 @@
+![CI](https://github.com/GopiChand-Kanisetti25/InventoryOrderAPI/actions/workflows/ci.yml/badge.svg)
+
 # Inventory & Order Management API
 
 A REST API built with Python and FastAPI for managing products, categories, inventory, and orders.
